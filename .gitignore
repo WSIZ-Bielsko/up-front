@@ -3,7 +3,7 @@
 
 # IDE
 .idea
-
+.env.local
 
 # dependencies
 /node_modules
